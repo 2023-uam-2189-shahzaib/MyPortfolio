@@ -6,7 +6,7 @@
 
 ## ✨ Live Demo
 
-🔗 **[View Portfolio →](https://shahzaib-portfolio.vercel.app)**
+🔗 **[View Portfolio →](https://shahzaibaiportfolio.vercel.app)**
 
 ---
 
